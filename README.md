@@ -16,7 +16,7 @@ This project is a part of my web development practice and showcases a modern lay
 - Bootstrap 5  
 
 ## 🌐 Live Demo
-👉 [View Website](https://your-username.github.io/your-repo-name/)
+👉 [View Website](https://amitkumar22003.github.io/bootstrap-landing-page/)
 
 ## 📂 How to Use
 1. Download or clone this repository  
